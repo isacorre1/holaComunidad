@@ -1,2 +1,3 @@
 # holaComunidad
-Presentación de Isaias en la Comunidad
+Presentación de Isaias Correa
+Soy un DB2 for Z/OS DBA
